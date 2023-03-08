@@ -3,7 +3,7 @@
     Регистрация пользователя
   requirement: |
     Пользователь должен иметь возможность зарегистрироваться на сайте.
-  prerequisites:
+  prerequisites: |
     Открыта страница регистрации
   test-data: |
     Nickname = Userkatest Email = userkatest@yandex.ru Password = testwin
